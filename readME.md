@@ -1,6 +1,5 @@
-This is a simple regression on the heart attack dataset from kaggle
-
-References:
+This is a simple regression and knn classification on based on media and the
+sales References:
 
 1. https://stackoverflow.com/questions/59140950/scatter-plot-with-multiple-x-features-and-single-y-in-python
 
